@@ -1,0 +1,17 @@
+Apples, 74, 0.99
+Bananas, 80, 0.99
+BlackPepper, 19, 1.99
+Cinnamon, 28, 1.99
+Cream, 23, 1.99
+Cumin, 20, 1.99
+Eggs, 26, 1.49
+Flour, 60, 1.49
+HeavyCream, 20, 2.49
+Lemons, 61, 0.99
+Milk, 19, 1.49
+Oranges, 48, 0.99
+OrganicMilk, 16, 2.99
+Peanuts, 80, 2.99
+Salt, 20, 2.99
+SeaSalt, 22, 3.99
+Thyme, 20, 1.99

@@ -1,0 +1,4 @@
+Corey, Baker, 123 Main St., Franklin, OH, 12345
+Apples, 3, 2.9699999999999998
+Oranges, 2, 1.98
+Peanuts, 1, 2.99
