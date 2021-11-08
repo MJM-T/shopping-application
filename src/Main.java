@@ -15,7 +15,7 @@ public class Main extends JPanel {
 	
 	public static void main(String[] args) {
 		
-		frame = new JFrame("Final Project");
+		frame = new JFrame("Shopper 2000");
 		frame.setPreferredSize(new Dimension(445, 350));
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		
